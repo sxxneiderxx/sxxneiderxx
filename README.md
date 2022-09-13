@@ -1,4 +1,4 @@
-## :zap:  :zap: Technologies
+## :zap: Technologies
 
 
 [![Header](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)]()
@@ -18,8 +18,7 @@ My name is Brayan Sneider Rodriguez, I from Bogota/Colombia, I have 14 years old
 
 
 <br/>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sxxneiderxx&hide_border=true&show_icons=true&theme=gotham"/></div>
-<div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sxxneiderxx&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D"/></div>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxxneiderxx&hide_border=true&layout=compact&show_icons=true&theme=gotham"/></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JosephRiosHenao&hide_border=true&show_icons=true&theme=gotham"/></div>
+<div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JosephRiosHenao&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D"/></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephRiosHenao&hide_border=true&layout=compact&show_icons=true&theme=gotham"/></div>
 <br/>
-
